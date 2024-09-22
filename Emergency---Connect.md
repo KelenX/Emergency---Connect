@@ -7,7 +7,6 @@ author: Kelen Nayara
 categories: Tecnologia
 tags: ["Inovação", "Desenvolvimento de Soluções", "Software", "Saúde"] 
 featured_image: ![imagem1](https://github.com/KelenX/Emergency---Connect/blob/main/images/image1.jpg)
-
 ---
 
 __Advertisement :smile:__
@@ -15,6 +14,15 @@ __Advertisement :smile:__
 Com a expansão dos centros urbanos, tornou-se rotina a visualização de acidentes distribuídos pela cidade, felizmente grande parte dos acontecimentos são casos leves. Contudo, diariamente o sistema público é acionado para prestar atendimento para essas situações.
 No ano de 2023, dados divulgados pelo DETRAN PR demonstram o aumento de veículos por habitantes no estado do Paraná, chegando a estatística de 68 veículos a cada 100 habitantes. Devido a isso, a importância de informações clínicas básicas sobre uma vítima e a possibilidade de contato rápido com os familiares torna-se um produto valioso na mão daqueles que precisam prestar um primeiro atendimento. Informações como medicamentos em uso, alergias presentes, tipo sanguíneo e/ou comorbidades, vinculadas a confiabilidade de atualizações periódicas, poderiam ser utilizadas por um socorrista para um atendimento mais assertivo e também para a comunicação com familiares para obtenção de informações cruciais entre ambas as partes.
 
+## Explicações
 
+Aqui estão duas imagens explicativas que ilustram melhor o funcionamento do Emergency Connect:
 
----
+![Imagem Explicativa 1](https://github.com/KelenX/Emergency---Connect/blob/main/images/image1.jpg)
+![Imagem Explicativa 2](https://github.com/KelenX/Emergency---Connect/blob/main/images/image2.jpg)
+
+## Logo do Projeto
+
+Aqui está o logo do projeto Emergency Connect:
+
+![Logo](https://github.com/KelenX/Emergency---Connect/blob/main/images/docs2.png)
