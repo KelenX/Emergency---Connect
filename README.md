@@ -9,5 +9,5 @@ No ano de 2023, dados divulgados pelo **DETRAN PR** demonstram o aumento de veí
 
 Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utilizadas por um socorrista para um atendimento mais assertivo e também para a comunicação com familiares para obtenção de informações cruciais entre ambas as partes.
 
-![imagem1](https://github.com/KelenX/Emergency---Connect/blob/main/images/image1.jpg)
-![imagem2](https://github.com/KelenX/Emergency---Connect/blob/main/images/image2.jpg)
+![imagem1](images/image1.jpg)
+![imagem2](images/image2.jpg)
