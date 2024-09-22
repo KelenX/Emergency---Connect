@@ -18,8 +18,8 @@ No ano de 2023, dados divulgados pelo DETRAN PR demonstram o aumento de veículo
 
 Aqui estão duas imagens explicativas que ilustram melhor o funcionamento do Emergency Connect:
 
-![Imagem Explicativa 1](images/image1.jpg)
-![Imagem Explicativa 2](images/image2.jpg)
+![imagem1](images/image1.jpg)
+![imagem2](images/image2.jpg)
 
 
 
