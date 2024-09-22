@@ -21,8 +21,6 @@ Aqui estão duas imagens explicativas que ilustram melhor o funcionamento do Eme
 ![Imagem Explicativa 1](https://KelenX.github.io/Emergency---Connect/images/image1.jpg)
 ![Imagem Explicativa 2](https://KelenX.github.io/Emergency---Connect/images/image2.jpg)
 
-## Logo do Projeto
 
-Aqui está o logo do projeto Emergency Connect:
 
 ![Logo](https://KelenX.github.io/Emergency---Connect/images/docs2.png)
