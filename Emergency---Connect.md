@@ -6,7 +6,7 @@ summary: O aplicativo Emergency Connect surge como uma solução inovadora para 
 author: Kelen Nayara
 categories: Tecnologia
 tags: ["Inovação", "Desenvolvimento de Soluções", "Software", "Saúde"] 
-featured_image: ![Imagem 1](https://KelenX.github.io/Emergency---Connect/images/image1.jpg)
+featured_image: ![Imagem 1](images/image1.jpg)
 ---
 
 __Advertisement :smile:__
