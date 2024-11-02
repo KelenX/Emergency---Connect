@@ -11,6 +11,7 @@ No ano de 2023, dados divulgados pelo **DETRAN PR** demonstram o aumento de veí
 
 Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utilizadas por um socorrista para um atendimento mais assertivo e também para a comunicação com familiares para obtenção de informações cruciais entre ambas as partes.
 
+<a href="https://https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Repositório do aplicativo</a>
 ![imagem1](images/image1.jpg)
 ![imagem2](images/image2.jpg)
 ![imagem3](images/imagem3.png)
@@ -21,7 +22,7 @@ Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utiliza
 ![imagem8](images/imagem7.png)
 ![imagem9](images/imagem8.png)
 
-<button href="https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Clique Aqui</button>
+
 
 
 
