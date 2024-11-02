@@ -1,3 +1,6 @@
+
+<a href="https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Repositório do aplicativo</a>
+<a href="https://github.com/KelenX/Emergency---Connect/blob/main/projeto/projeto.pdf" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Projeto</a>
 ![Logo](images/docs2.png)
 
 Com a expansão dos centros urbanos, tornou-se rotina a visualização de acidentes distribuídos pela cidade. Felizmente, grande parte dos acontecimentos são casos leves. Contudo, diariamente o sistema público é acionado para prestar atendimento para essas situações.
@@ -11,8 +14,6 @@ No ano de 2023, dados divulgados pelo **DETRAN PR** demonstram o aumento de veí
 
 Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utilizadas por um socorrista para um atendimento mais assertivo e também para a comunicação com familiares para obtenção de informações cruciais entre ambas as partes.
 
-<a href="https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Repositório do aplicativo</a>
-<a href="https://github.com/KelenX/Emergency---Connect/blob/main/projeto/projeto.pdf" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Projeto</a>
 
 ![imagem1](images/image1.jpg)
 ![imagem2](images/image2.jpg)
