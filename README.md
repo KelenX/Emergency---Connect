@@ -13,14 +13,13 @@ Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utiliza
 
 ![imagem1](images/image1.jpg)
 ![imagem2](images/image2.jpg)
-![imagem3](imagens/imagem3.png)
-![imagem4](imagens/imagem9.png)
-![imagem5](imagens/imagem4.png)
-![imagem6](imagens/imagem5.png)
-![imagem7](imagens/imagem6.png)
-![imagem8](imagens/imagem7.png)
-![imagem9](imagens/imagem8.png)
-
+![imagem3](images/imagem3.png)
+![imagem4](images/imagem9.png)
+![imagem5](images/imagem4.png)
+![imagem6](images/imagem5.png)
+![imagem7](images/imagem6.png)
+![imagem8](images/imagem7.png)
+![imagem9](images/imagem8.png)
 
 
 
