@@ -13,7 +13,7 @@ Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utiliza
 
 <a href="https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Repositório do aplicativo</a>
 
-<a href="https://www.google.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">PDF</a>
+<a href="https://www.google.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Projeto</a>
 ![imagem1](images/image1.jpg)
 ![imagem2](images/image2.jpg)
 ![imagem3](images/imagem3.png)
