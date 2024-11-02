@@ -21,7 +21,7 @@ Vinculadas à confiabilidade de atualizações periódicas, poderiam ser utiliza
 ![imagem8](images/imagem7.png)
 ![imagem9](images/imagem8.png)
 
-<a href="https://https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Clique Aqui</a>
+<button href="https://github.com/KelenX/Emergency---Connect" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">Clique Aqui</button>
 
 
 
