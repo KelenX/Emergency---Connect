@@ -7,6 +7,7 @@ author: Kelen Nayara
 categories: Tecnologia
 tags: ["Inovação", "Desenvolvimento de Soluções", "Software", "Saúde"] 
 featured_image: ![Imagem 1]([images/image1.jpg](https://github.com/KelenX/Emergency---Connect/blob/f85a7a98a660008bd66d2cc6c01e12cecb8aec40/images/image1.jpg))
+linkblog: https://kelenx.github.io/Emergency---Connect/
 ---
 
 __Advertisement :smile:__
